@@ -2,15 +2,177 @@ body {
     background-color: #FEFBF4;
 }
 .navbar {
-    background-color: #FEFBF4 !important;
+
+
 
         font-family: "Calibri", Calibri, serif;
         letter-spacing: 3px;
         font-size: 16px;
+        padding-bottom: 100px;
+        padding-top: 25px;
+        position:fixed;
+        width: 100%;
+      }
+
+      .bg-body-tertiary {
+        background-color: rgba(0, 0, 0, 0) !important;
       }
 a class {letter-spacing: 2px;}
 
+.logo {
+    width:100px;
+    height:auto;
+}
+
+.bio {
+    text-align: right;
+    font-size: 30px; 
+    letter-spacing: 12px; 
+    font-family: calibri;
+    text-align: justify;
+    width: 700px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 170px; 
+}
+
+.hero {
+    font-size:600px;
+    position: fixed;
+    top: 21.7%;
+    left: 5%;
+
+}
+
+.heroScroll{
+    margin-left: 27%;
+    margin-top: 12.5%;
+}
+
 h1 {
     letter-spacing: -70px;
+    line-height: .69;
     
+    
+}
+
+pre {
+    font-size: large;
+}
+
+.caseStudies {
+    margin-top: 18%;
+    font-family: Calibri;
+    letter-spacing: 8px;
+    font-size: 50px;
+    line-height: 2.5;
+    
+}
+
+.FTCheader{
+    letter-spacing: 10%;
+    margin-bottom: 100px;
+    
+
+}
+
+.FTCtext {
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 130px;
+    margin-right: 130px;
+
+    
+
+}
+
+.FTClogo {
+    margin-left: 30px;
+    margin-top: 150px;
+}
+
+.FTCstyle {
+    margin-left:30px;
+}
+
+.FTCcolors {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 220px;
+    margin-right: 90px;
+}
+
+.FTCfonts {
+    margin-left: 120px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-top: 120px;
+}
+
+.FTCstages {
+    margin-top: 120px;
+    
+
+}
+
+.FTCfooter {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px
+
+
+}
+
+.ANElogo {
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.ANEstyle {
+    margin-left: 30px;
+}
+
+.ANEstages {
+    margin-left: 30px;
+}
+
+.ANEmockups {
+    margin-left:30px;
+}
+.ANEbottom{
+    margin-left: 30px;
+}
+
+.ANEfooter {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px
+}
+
+
+.WTlogo {
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.WTstyle {
+    margin-left: 30px;
+}
+
+.WTstages {
+    margin-left: 30px;
+}
+.WTmockups {
+    margin-left: 30px;
+}
+.WTfooter {
+    margin-left: 30px;
+}
+.WTbottom {
+    margin-left: 30px;
+}
+
+.WTfooter {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px
 }
